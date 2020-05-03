@@ -1,0 +1,5 @@
+/home/alex/Projects/FormattingUsagePractice/FormattingUsagePractice/bin/Debug/FormattingUsagePractice.exe
+/home/alex/Projects/FormattingUsagePractice/FormattingUsagePractice/bin/Debug/FormattingUsagePractice.pdb
+/home/alex/Projects/FormattingUsagePractice/FormattingUsagePractice/obj/x86/Debug/FormattingUsagePractice.csprojAssemblyReference.cache
+/home/alex/Projects/FormattingUsagePractice/FormattingUsagePractice/obj/x86/Debug/FormattingUsagePractice.exe
+/home/alex/Projects/FormattingUsagePractice/FormattingUsagePractice/obj/x86/Debug/FormattingUsagePractice.pdb
